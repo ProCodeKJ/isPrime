@@ -1,1 +1,1 @@
-# isPrime
+# Is your number prime?
